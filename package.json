@@ -1,0 +1,19 @@
+{
+  "name": "flower_generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "server": "json-server ./db.json --watch",
+    "dev": "vite --open --host",
+    "build": "vite build",
+    "preview": "vite preview --open --host",
+    "deploy": "surge ./dist flower_ikram.surge.sh"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "randomcolor": "^0.6.2"
+  }
+}

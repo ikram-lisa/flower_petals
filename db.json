@@ -1,0 +1,56 @@
+{
+  "Petals": [
+    {
+      "id": 1,
+      "position": "absolute",
+      "x": 80,
+      "zIndex": 1,
+      "width": 120,
+      "height": 30,
+      "borderRadius": 50,
+      "color1": "#ff5e00",
+      "color2": "#ffbb00",
+      "filter": "drop-shadow(0 0 5px #e05200)",
+      "transform": 22.5
+    },
+    {
+      "id": 2,
+      "position": "absolute",
+      "x": 80,
+      "zIndex": 2,
+      "width": 120,
+      "height": 30,
+      "borderRadius": 50,
+      "color1": "#ff5e00",
+      "color2": "#ffbb00",
+      "filter": "drop-shadow(0 0 5px #e05200)",
+      "transform": 67.5
+    },
+    {
+      "id": 3,
+      "position": "absolute",
+      "x": 80,
+      "zIndex": 3,
+      "width": 120,
+      "height": 30,
+      "borderRadius": 50,
+      "color1": "#ff5e00",
+      "color2": "#ffbb00",
+      "filter": "drop-shadow(0 0 5px #e05200)",
+      "transform": 110.5
+    },
+    {
+      "id": 4,
+      "position": "absolute",
+      "x": 80,
+      "zIndex": 4,
+      "width": 120,
+      "height": 30,
+      "borderRadius": 50,
+      "color1": "#ff5e00",
+      "color2": "#ffbb00",
+      "filter": "drop-shadow(0 0 5px #e05200)",
+      "transform": 157.5
+    }
+  ]
+}
